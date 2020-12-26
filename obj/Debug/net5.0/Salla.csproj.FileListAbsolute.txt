@@ -1,0 +1,12 @@
+C:\Users\HC\Documents\Hakan\Proje\Salla\bin\Debug\net5.0\Salla.deps.json
+C:\Users\HC\Documents\Hakan\Proje\Salla\bin\Debug\net5.0\Salla.dll
+C:\Users\HC\Documents\Hakan\Proje\Salla\bin\Debug\net5.0\ref\Salla.dll
+C:\Users\HC\Documents\Hakan\Proje\Salla\bin\Debug\net5.0\Salla.pdb
+C:\Users\HC\Documents\Hakan\Proje\Salla\obj\Debug\net5.0\Salla.csprojAssemblyReference.cache
+C:\Users\HC\Documents\Hakan\Proje\Salla\obj\Debug\net5.0\Salla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HC\Documents\Hakan\Proje\Salla\obj\Debug\net5.0\Salla.AssemblyInfoInputs.cache
+C:\Users\HC\Documents\Hakan\Proje\Salla\obj\Debug\net5.0\Salla.AssemblyInfo.cs
+C:\Users\HC\Documents\Hakan\Proje\Salla\obj\Debug\net5.0\Salla.csproj.CoreCompileInputs.cache
+C:\Users\HC\Documents\Hakan\Proje\Salla\obj\Debug\net5.0\Salla.dll
+C:\Users\HC\Documents\Hakan\Proje\Salla\obj\Debug\net5.0\ref\Salla.dll
+C:\Users\HC\Documents\Hakan\Proje\Salla\obj\Debug\net5.0\Salla.pdb

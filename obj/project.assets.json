@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HC\\Documents\\Hakan\\Proje\\Salla\\Salla\\Salla.csproj",
+      "projectUniqueName": "C:\\Users\\HC\\Documents\\Hakan\\Proje\\Salla\\Salla.csproj",
       "projectName": "Salla",
-      "projectPath": "C:\\Users\\HC\\Documents\\Hakan\\Proje\\Salla\\Salla\\Salla.csproj",
+      "projectPath": "C:\\Users\\HC\\Documents\\Hakan\\Proje\\Salla\\Salla.csproj",
       "packagesPath": "C:\\Users\\HC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HC\\Documents\\Hakan\\Proje\\Salla\\Salla\\obj\\",
+      "outputPath": "C:\\Users\\HC\\Documents\\Hakan\\Proje\\Salla\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
